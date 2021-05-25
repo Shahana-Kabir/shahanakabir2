@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/shahanakabir2/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/shahanakabir2/static/js/main.c8db986b.chunk.js",
-    "main.js.map": "/shahanakabir2/static/js/main.c8db986b.chunk.js.map",
-    "runtime-main.js": "/shahanakabir2/static/js/runtime-main.9179212c.js",
-    "runtime-main.js.map": "/shahanakabir2/static/js/runtime-main.9179212c.js.map",
-    "static/js/2.bc483381.chunk.js": "/shahanakabir2/static/js/2.bc483381.chunk.js",
-    "static/js/2.bc483381.chunk.js.map": "/shahanakabir2/static/js/2.bc483381.chunk.js.map",
-    "static/js/3.cb2c9f3a.chunk.js": "/shahanakabir2/static/js/3.cb2c9f3a.chunk.js",
-    "static/js/3.cb2c9f3a.chunk.js.map": "/shahanakabir2/static/js/3.cb2c9f3a.chunk.js.map",
+    "main.css": "/shahanakabir2/static/css/main.ea71a366.chunk.css",
+    "main.js": "/shahanakabir2/static/js/main.42ce0a6b.chunk.js",
+    "main.js.map": "/shahanakabir2/static/js/main.42ce0a6b.chunk.js.map",
+    "runtime-main.js": "/shahanakabir2/static/js/runtime-main.a5ec4cc8.js",
+    "runtime-main.js.map": "/shahanakabir2/static/js/runtime-main.a5ec4cc8.js.map",
+    "static/js/2.e84407be.chunk.js": "/shahanakabir2/static/js/2.e84407be.chunk.js",
+    "static/js/2.e84407be.chunk.js.map": "/shahanakabir2/static/js/2.e84407be.chunk.js.map",
+    "static/js/3.aa4c7fdb.chunk.js": "/shahanakabir2/static/js/3.aa4c7fdb.chunk.js",
+    "static/js/3.aa4c7fdb.chunk.js.map": "/shahanakabir2/static/js/3.aa4c7fdb.chunk.js.map",
     "index.html": "/shahanakabir2/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/shahanakabir2/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.bc483381.chunk.js.LICENSE.txt": "/shahanakabir2/static/js/2.bc483381.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/shahanakabir2/static/media/logo.6ce24c58.svg"
+    "static/css/main.ea71a366.chunk.css.map": "/shahanakabir2/static/css/main.ea71a366.chunk.css.map",
+    "static/js/2.e84407be.chunk.js.LICENSE.txt": "/shahanakabir2/static/js/2.e84407be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shahanakabir2/static/media/logo.6ce24c58.svg",
+    "static/media/pic2.jpeg": "/shahanakabir2/static/media/pic2.59eaea58.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9179212c.js",
-    "static/js/2.bc483381.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c8db986b.chunk.js"
+    "static/js/runtime-main.a5ec4cc8.js",
+    "static/js/2.e84407be.chunk.js",
+    "static/css/main.ea71a366.chunk.css",
+    "static/js/main.42ce0a6b.chunk.js"
   ]
 }
