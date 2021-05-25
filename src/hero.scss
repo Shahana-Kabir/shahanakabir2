@@ -1,0 +1,12 @@
+.hero{
+    background-color:whitesmoke;
+    height:15rem;
+    display: flex;
+    justify-content:center;
+
+    &__image{
+        height:10rem;
+        width:10rem;
+
+    }
+}
