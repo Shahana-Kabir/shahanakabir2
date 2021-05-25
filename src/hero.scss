@@ -4,9 +4,14 @@
     display: flex;
     justify-content:center;
 
+     &__para {
+         width: 50%; 
+     }
     &__image{
-        height:10rem;
-        width:10rem;
+        height: 10rem;
+        width: 10rem;
 
     }
+
+
 }
