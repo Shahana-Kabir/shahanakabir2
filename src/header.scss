@@ -1,5 +1,10 @@
 .header2{
     background-color:lightslategray;
     color: white;
+
+    &__items{
+        display: flex;
+        justify-content: space-between;
+    }
     
 }

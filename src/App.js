@@ -6,15 +6,25 @@ import Hero from './Hero';
 import Projects from './Projects';
 import Footer from './Footer';
 import Contact from './Contact';
+import Home from './Home';
+import Resume from './Resume';
+import resume2 from './assets/resume.pdf';
 
 function App() {
   return (
-    <BrowserRouter>
-   
+    
+    <BrowserRouter> 
     <Header />
-    <Hero />
-    <Projects />
-    <Contact />
+    
+     {/* <a href = {resume2}> resume </a> */}
+    <Switch>
+    <Route path = '/' exact component = {Hero} /> 
+    <Route path = '/Projects'  component = {Projects} />  
+    
+    <Route path = '/Resume'  component = {Resume} />
+  
+    <Route path = '/Contact'  component = {Contact} /> 
+    </Switch>
     <Footer />
 
     </BrowserRouter>
