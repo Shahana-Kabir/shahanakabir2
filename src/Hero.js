@@ -8,14 +8,20 @@ const Hero = () => {
     return ( 
      <div className = " hero d-flex flex-row justify-content-between">
         
-        <div className = "hero__para d-flex flex-column justify-content-center"> 
-        Lorem IColsum has been the industry's standard dummy text ever since the 1500s, 
-        when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+        <div className = "hero__para ml-2 d-flex flex-column justify-content-center"> 
+        <h2>
+            Shahana Kabir<br />
+            Web Developer, Vancouver
+            
+        </h2>
+        <p className = "mt-4">
+        I'm a web developer from Vancouver, BC dedicated to building creative websites and continuing to learn new skills in web development. Currently looking for new employment opportunities.
+
+        </p>
         </div>
         
         <div className = "d-flex flex-column justify-content-center" >
-        <img  src = {pic2} width = "100rem" height = "100rem" />
+        <img  className = "hero__image mr-2" src = {pic2}  />
        </div>
         </div> );
 }

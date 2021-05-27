@@ -1,4 +1,15 @@
 .projects{
-    height: 30rem;
+    height: 120rem;
     background-color: lightness($color:blue);
+
+    &__item1{
+        height:40rem;
+        background-color:lightyellow;
+
+    }
+
+    &__image{
+        width:20rem;
+        height:20rem;
+    }
 }

@@ -1,6 +1,6 @@
 .hero{
     background-color:whitesmoke;
-    height:30rem;
+    height:50rem;
     display: flex;
     justify-content:center;
 
@@ -8,8 +8,8 @@
          width: 50%; 
      }
     &__image{
-        height: 10rem;
-        width: 10rem;
+        width: 15rem;
+        border-radius: 1.15rem;
 
     }
 
